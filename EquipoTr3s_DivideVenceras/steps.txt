@@ -1,0 +1,12 @@
+DONE 1. Añadir programación dinámica
+DONE 2. Conservar distintas imágenes con las que hizo el gif (en carpeta)
+DONE 3. Calcular complejidad temporal y graficar
+        - Divide y vencerás
+        - Programación dinámica
+4. GUI 
+    - Elegir el nivel de compresión (afecta al gif y al número de imágenes generadas) es decir n 
+    - Primero se introduce n (nivel de compresión)
+    - Seleccionar la imagne y ruta de la carpeta que se crea con los resultados
+    - En otra ventana se muestra la gráfica de complejidad temporal
+    - Se muestra el resultado en gif en una ventana
+    
